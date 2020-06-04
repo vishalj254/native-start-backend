@@ -1,0 +1,17 @@
+{
+  "name": "taskb",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.3",
+    "cors": "^2.8.5",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "mongoose": "^5.9.17",
+    "morgan": "~1.9.0",
+    "nodemon": "^2.0.4"
+  }
+}
